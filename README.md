@@ -8,9 +8,8 @@ Aadarsha Khatri is a recent high school graduate based in Nepal and an aspiring 
 
 # Currently Learning
 
-- Machine Learning Models(Linear Regression and Decision Trees)  
+- Pytorch 
 - Integrating ML with react  
-- Analytical Analysis
-- Flask, pandas and scikit  
+- Deep Learning Models  
 
 ---
